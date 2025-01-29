@@ -763,6 +763,10 @@ section {
     width: 90%;
   }
 
+  .btn-con {
+    width: 100%;
+  }
+
   .controls {
     top: auto;
     bottom: 0;
